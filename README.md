@@ -16,8 +16,11 @@ Clone Repository: Clone this repository to your local machine.
 Navigate to Project Directory: Open your command line interface, navigate to the project directory, and install dependencies:
 
 cd path/to/smart-medical-box
+
 npm install
+
 npm expo start
+
 Run on Expo Go: Scan the QR code using the Expo Go app on your Android device or scan using camera on iOS.
 
 View in Browser: Alternatively, you can choose to run the project in a web browser by selecting the respective option in the Expo Developer Tools interface.
